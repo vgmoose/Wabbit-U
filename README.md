@@ -1,4 +1,9 @@
-# A CHIP8/SCHIP-8 Emulator for WiiU upgraded by brienj of XHP Creations
+# Wabbit-U
+
+An attempted port of https://wabbit.codeplex.com ! Based on the emulator frame created by @xhp-creations. Original readme below.
+
+
+### A CHIP8/SCHIP-8 Emulator for WiiU upgraded by brienj of XHP Creations
 
 Added GX2 Graphics, Sound Support, and Super CHIP-8 Support
 
